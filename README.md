@@ -1,2 +1,5 @@
 # react-map
-React map component used by Estimation Française website
+
+Coming soon, react component optimising markers cluster.
+
+Made by [Estimation Française](https://estimationfrancaise.fr/)
